@@ -1,0 +1,24 @@
+# Financial Market Intelligence Pipeline - Dependencies
+
+# HTTP & RSS
+httpx>=0.25.0
+feedparser>=6.0.10
+
+# NLP
+spacy>=3.7.0
+
+# LLM
+ollama>=0.3.0
+
+# CLI & Output
+click>=8.1.0
+rich>=13.0.0
+
+# Database
+# SQLite is built-in to Python
+
+# Date handling
+python-dateutil>=2.8.0
+
+# Testing
+pytest>=7.4.0
